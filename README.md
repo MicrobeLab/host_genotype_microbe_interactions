@@ -1,1 +1,1 @@
-# host_genotype_microbe_interactions
+# Host genotype-by-microbe interactions
